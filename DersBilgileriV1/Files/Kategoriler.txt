@@ -1,0 +1,3 @@
+11;Sayısal Kategori
+12;Sosyal Kategori
+13;Fen Kategori

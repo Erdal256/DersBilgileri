@@ -1,0 +1,3 @@
+11;Matematik;11;Calculus;5
+12;Biyoloji;13;Virüsler;3
+13;Coğrafya;12;Türkiye Coğrafyası;1
